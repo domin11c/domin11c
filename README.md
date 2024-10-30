@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">I am currently a member of runa team.</p>
-
 ###
 
 <h2 align="left">Programming Languages</h2>
